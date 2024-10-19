@@ -1,1 +1,0 @@
-QuackPlus = game:GetService("ReplicatedStorage").Shared.QuackPlus
